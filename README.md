@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/002Nero/images/blob/f795fa77b23317c17c03f6243ee9432bf909683a/Bani%C3%A8re.png)](https://github.com/002Nero)
 
-I'm a 2nd year student pursuing BUT Informatique at IUT Du Limousin . I'm a hard worker who plays Video Games , do photography (mainly cars) in my free time . I'm currently working hard to get my diploma in computer science . I'm a passionate creator who loves experimenting  and exploring every part of my passions which are  astronomy / motorsport / photography . I'm  always in search of improving and I'm doing everithing  i can to reach my goal : work for Oracle RedBull F1 Team . If you want to check out my work ->  <img align="right" alt="Coding" width="400" src="[add your link 
-  here](https://github.com/002Nero/images/blob/48dd38961bbd0809c891c2732a5010aefa4485ff/002nero_business-card.jpeg)">
+I'm a 2nd year student pursuing BUT Informatique at IUT Du Limousin . I'm a hard worker who plays Video Games , do photography (mainly cars) in my free time . I'm currently working hard to get my diploma in computer science . I'm a passionate creator who loves experimenting  and exploring every part of my passions which are  astronomy / motorsport / photography . I'm  always in search of improving and I'm doing everithing  i can to reach my goal : work for Oracle RedBull F1 Team . If you want to check out my work ->  <img align="right" alt="Coding" width="400" src="(https://github.com/002Nero/images/blob/48dd38961bbd0809c891c2732a5010aefa4485ff/002nero_business-card.jpeg)">
 
 
 [![002Nero's GitHub stats](https://github-readme-stats.vercel.app/api?username=002Nero&show_icons=true&theme=synthwave)](https://github.com/002Nero/github-readme-stats) 
