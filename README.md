@@ -2,7 +2,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=002Nero)](https://github.com/002Nero/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=002Nero_icons=true&theme=synthwave)
 
 The IDE's I use the most 
 
