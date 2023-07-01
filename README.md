@@ -1,8 +1,8 @@
 [![MasterHead](https://github.com/002Nero/images/blob/f795fa77b23317c17c03f6243ee9432bf909683a/Bani%C3%A8re.png)](https://github.com/002Nero)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=002Nero)](https://github.com/002Nero/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=002Nero_icons=true&theme=synthwave)
+[![002Nero's GitHub stats](https://github-readme-stats.vercel.app/api?username=002Nero&show_icons=true)](https://github.com/002Nero/github-readme-stats)
+
 
 The IDE's I use the most 
 
