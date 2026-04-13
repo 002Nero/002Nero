@@ -4,7 +4,7 @@ I'm a 2nd year student pursuing BUT Informatique at IUT Du Limousin . I'm a hard
 
 <img align="right" alt="Coding" width="350" src="https://github.com/002Nero/images/blob/48dd38961bbd0809c891c2732a5010aefa4485ff/002nero_business-card.jpeg">
 
-[![002Nero's GitHub stats](https://github-readme-stats.vercel.app/api?username=002Nero&show_icons=true&theme=synthwave)](https://github.com/002Nero/github-readme-stats) 
+[![002Nero's GitHub stats](https://github-readme-stats.vercel.app/api?username=002Nero&show_icons=true&theme=synthwave)]
 
 
 The IDE's I use the most 
